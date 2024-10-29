@@ -13,12 +13,12 @@ function App() {
         <Navbar />
       </div>
 
-      {/* Swiper Section */}
+      {/* Carousel Swiper Section */}
       <div className="w-full h-full">
         <SwiperComponent />
       </div>
 
-      {/* Produk Lainnya Section */}
+      {/* Katalog Section */}
       <div>
         <OtherProducts />
       </div>

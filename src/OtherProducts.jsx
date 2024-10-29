@@ -9,11 +9,14 @@ function OtherProducts() {
         jenis mobil, termasuk spesifikasi, fitur, harga, dan gambar, yang
         membantu konsumen dalam memilih kendaraan yang sesuai dengan kebutuhan.
       </p>
-      <div className="flex flex-wrap items-center justify-center gap-6 lg:mx-5 lg:w-full">
+      <div className="flex flex-wrap items-center justify-center gap-6 mx-5 ">
         {/* Card1 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car1"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">HYUNDAI I20</h2>
@@ -34,7 +37,10 @@ function OtherProducts() {
         {/* Card2 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car2"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">TOYOTA CAMRY TRD</h2>
@@ -55,7 +61,10 @@ function OtherProducts() {
         {/* Card3 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car3"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">BMW 320I</h2>
@@ -76,7 +85,10 @@ function OtherProducts() {
         {/* Card1 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car4"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">Toyota Avanza</h2>
@@ -96,7 +108,10 @@ function OtherProducts() {
         {/* Card2 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car5"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">Honda Civic</h2>
@@ -116,7 +131,10 @@ function OtherProducts() {
         {/* Card3 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car6"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">Daihatsu Xenia</h2>
@@ -136,7 +154,10 @@ function OtherProducts() {
         {/* Card3 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car7"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">
@@ -158,7 +179,10 @@ function OtherProducts() {
         {/* Card3 */}
         <div className="shadow-xl card card-compact bg-base-100 w-96">
           <figure>
-            <img src=".\src\assets\katalog\car1.png" alt="Shoes" />
+            <img
+              src="https://img2.icarros.com/dbimg/galeriaimgmodelo/7/16130_1.jpg"
+              alt="Car8"
+            />
           </figure>
           <div className="text-white bg-gray-600 card-body">
             <h2 className="text-blue-300 card-title">Mazda CX-5</h2>
