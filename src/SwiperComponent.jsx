@@ -77,7 +77,7 @@ export default function App() {
                 Mobil ini dirancang khusus untuk performa tinggi, kecepatan, dan
                 pengalaman berkendara yang dinamis.
               </p>
-              <button className="p-2 text-sm text-white bg-gray-800 rounded-sm -ml-[162px]">
+              <button className="font-normal p-2 text-sm btn text-white bg-gray-800 rounded-sm -ml-[162px]">
                 Selengkapnya
               </button>
             </div>
@@ -117,7 +117,7 @@ export default function App() {
                 Mobil ini dirancang khusus untuk performa tinggi, kecepatan, dan
                 pengalaman berkendara yang dinamis.
               </p>
-              <button className="p-2 text-sm text-white bg-gray-800 rounded-sm -ml-[162px]">
+              <button className="font-normal btn p-2 text-sm text-white bg-gray-800 rounded-sm -ml-[162px]">
                 Selengkapnya
               </button>
             </div>
@@ -132,7 +132,7 @@ export default function App() {
               pengalaman berkendara yang dinamis.
             </p>
             <button className="mt-2 mb-10 font-normal text-center bg-gray-800 border-none rounded-sm btn btn-primary btn-sm hover:bg-gray-500">
-              <span className="text-sm text-white">Selengkapnya</span>
+              <span className="text-sm text-white ">Selengkapnya</span>
             </button>
           </div>
         </SwiperSlide>
@@ -157,7 +157,7 @@ export default function App() {
                 Mobil ini dirancang khusus untuk performa tinggi, kecepatan, dan
                 pengalaman berkendara yang dinamis.
               </p>
-              <button className="p-2 text-sm text-white bg-gray-800 rounded-sm -ml-[162px]">
+              <button className="font-normal btn p-2 text-sm text-white bg-gray-800 rounded-sm -ml-[162px]">
                 Selengkapnya
               </button>
             </div>
@@ -171,7 +171,7 @@ export default function App() {
               Mobil ini dirancang khusus untuk performa tinggi, kecepatan, dan
               pengalaman berkendara yang dinamis.
             </p>
-            <button className="mt-2 font-normal text-center bg-gray-800 border-none rounded-sm mb-14 btn btn-primary btn-sm hover:bg-gray-500">
+            <button className="mt-2 font-normal text-center bg-gray-800 border-none rounded-sm btn mb-14 btn-primary btn-sm hover:bg-gray-500">
               <span className="text-sm text-white">Selengkapnya</span>
             </button>
           </div>

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Navbar from "./Navbar";
 import Banner from "./Banner";
 import OtherProducts from "./OtherProducts";
@@ -8,25 +8,25 @@ import Footer from "./Footer";
 function App() {
   return (
     <>
-      <div className="">
+      {/* Navbar Section */}
+      <div>
         <Navbar />
       </div>
 
-      {/* <div className="w-full sm:bg-slate-400 h-[53rem] ">
-        <Banner />
-      </div> */}
-
+      {/* Swiper Section */}
       <div className="w-full h-full">
         <SwiperComponent />
       </div>
 
-      {/* Container Section */}
-      <div className="container"></div>
-
       {/* Produk Lainnya Section */}
-      <OtherProducts />
+      <div>
+        <OtherProducts />
+      </div>
 
-      <Footer />
+      {/* Footer Section */}
+      <div>
+        <Footer />
+      </div>
     </>
   );
 }
